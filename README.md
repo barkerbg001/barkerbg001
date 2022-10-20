@@ -14,7 +14,7 @@ Love interacting with the community and exchanging knowledge 📚.
 - Pronouns: he/him
 - Company email: barkerbg001@gmailcom
 - Twitch: [twitch.tv/barkerbg001](https://www.twitch.tv/barkerbg001)
-- All the handles and things: [jfversluis.dev](https://barkerbg001.com)
+- All the handles and things: [barkerbg001.com](https://barkerbg001.com)
 
 <!--
 **barkerbg001/barkerbg001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
