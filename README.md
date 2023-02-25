@@ -13,13 +13,15 @@ A developer currently using Xamarin to carry out my daily job, and slowly becomi
 
 Love interacting with the community and exchanging knowledge 📚.
 -->
-## 🤓 - About
+<div>
+  ## 🤓 - About
 
 - Name: Bradley Barker (barkerbg001)
 - Pronouns: he/him
 - Company email: barkerbg001@gmailcom
 - Twitch: [twitch.tv/barkerbg001](https://www.twitch.tv/barkerbg001)
 - All the handles and things: [barkerbg001.com](https://barkerbg001.com)
+</div>
 
 <!--
 **barkerbg001/barkerbg001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
