@@ -8,10 +8,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barkerbg001&layout=compact&theme=tokyonight&count_private=true" alt="barkerbg001 GitHub stats" align= "left"/>
   </a>
 </div>
+<!--
 A developer currently using Xamarin to carry out my daily job, and slowly becoming a GitHub wizard!
 
 Love interacting with the community and exchanging knowledge 📚.
-
+-->
 ## 🤓 - About
 
 - Name: Bradley Barker (barkerbg001)
