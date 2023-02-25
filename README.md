@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Barkerbg001
 
-A developer currently using Xamarin to carry out my daily job, and slowly becoming a GitHub wizard!
+Experienced fullstack developer adept in Xamarin mobile app development & YouTuber.
 
 Love interacting with the community and exchanging knowledge 📚.
   ## 🤓 - About
