@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=barkerbg001&show_icons=true&count_private=true" alt="barkerbg001 GitHub stats" align="right" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barkerbg001&layout=compact&theme=tokyonight&count_private=true" alt="barkerbg001 GitHub stats" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barkerbg001&layout=compact&theme=tokyonight&count_private=true" alt="barkerbg001 GitHub stats" align= "left"/>
   </a>
 </div>
 A developer currently using Xamarin to carry out my daily job, and slowly becoming a GitHub wizard!
