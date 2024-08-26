@@ -8,7 +8,6 @@ Love interacting with the community and exchanging knowledge 📚.
 - Name: Bradley Barker (barkerbg001)
 - Pronouns: he/him
 - Email: barkerbg001@gmailcom
-- Twitch: [twitch.tv/barkerbg001](https://www.twitch.tv/barkerbg001)
 - All the handles and things: [barkerbg001.com](https://barkerbg001.com)
 
 <div>
