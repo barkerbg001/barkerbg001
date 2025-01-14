@@ -35,14 +35,9 @@ Love learning, teaching, and building impactful projects 📚.
 
 ## 📊 GitHub Stats:
 
-<div>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=barkerbg001&show_icons=true&count_private=true&theme=tokyonight" alt="barkerbg001 GitHub stats" align="right" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barkerbg001&layout=compact&theme=tokyonight&count_private=true" alt="barkerbg001 Top Languages" align="left"/>
-  </a>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=barkerbg001&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barkerbg001&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=barkerbg001&theme=radical)
 
 ---
 
