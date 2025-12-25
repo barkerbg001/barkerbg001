@@ -5,7 +5,7 @@
 ### Senior Full-Stack Developer
 
 Passionate about building impactful mobile and web applications with .NET, Python, and React.  
-Specializing in **Xamarin** and **.NET MAUI** mobile app development.
+Specializing in **.NET MAUI** and **React Native** mobile app development.
 
 *Love learning, teaching, and creating solutions that make a difference* 📚
 
@@ -20,7 +20,7 @@ Specializing in **Xamarin** and **.NET MAUI** mobile app development.
 ## 🚀 What I Do
 
 - 💻 **Full-Stack Development** - Building end-to-end solutions with modern technologies
-- 📱 **Mobile App Development** - Creating cross-platform apps with .NET MAUI and Xamarin
+- 📱 **Mobile App Development** - Creating cross-platform apps with .NET MAUI, React Native, and Xamarin
 - 🎨 **UI/UX Design** - Crafting intuitive and beautiful user experiences
 - 🔧 **Cloud Solutions** - Deploying scalable applications on Azure and GCP
 - 🎓 **Teaching & Mentoring** - Sharing knowledge and helping others grow
@@ -38,6 +38,7 @@ Specializing in **Xamarin** and **.NET MAUI** mobile app development.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Mobile & Cross-Platform
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 
@@ -70,26 +71,11 @@ Specializing in **Xamarin** and **.NET MAUI** mobile app development.
 
 ## 💡 Currently
 
-- 🌐 Exploring advanced app development with **.NET MAUI**
+- 📱 Exploring **React Native** for cross-platform mobile development
+- 🐍 Deepening my knowledge of **Python** for backend and automation
+- 🌐 Advancing my skills with **.NET MAUI** for native mobile apps
 - 💡 Always open to brainstorming new ideas and solutions
 - 🚀 Making tech accessible and enjoyable for everyone through innovative apps
-- 📚 Continuously learning and staying updated with the latest technologies
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=barkerbg001&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=barkerbg001&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)
-
-![Profile Views](https://visitcount.itsvg.in/api?id=barkerbg001&icon=5&color=1)
-
-</div>
-
-> 💡 **Note:** The public GitHub stats service (`github-readme-stats.vercel.app`) is currently unavailable. To add stats cards back, you can [deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) on Vercel.
 
 ---
 
