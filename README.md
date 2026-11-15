@@ -18,8 +18,8 @@ Full-stack developer with **6+ years** building production web, mobile and AI fe
 ## 🚀 What I Do
 
 - 💻 **Full-Stack Web** - React, Next.js and TypeScript front ends on Python/FastAPI and C#/.NET APIs
-- 📱 **Mobile** - Build and maintain a production React Native finance app day to day, after leading its migration from Xamarin (completed 2025)
-- 🤖 **Production AI** - Built an LLM invoice-extraction pipeline (Gemini, Groq) and an in-app AI assistant for a finance product
+- 📱 **Mobile** - Build and maintain a production React Native finance app day to day
+- 🤖 **Production AI** - Build LLM-powered features into real products, from document extraction and in-app assistants to agentic workflows
 - ☁️ **Cloud & DevOps** - Azure, GCP, Docker and CI/CD
 - 🎓 **Mentoring** - Helping other developers grow
 
